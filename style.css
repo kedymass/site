@@ -1,0 +1,30 @@
+*{  margin: 0;
+    padding: 0;
+
+}
+m
+
+.cor-e-titulo{
+    background-color:#B93C3C
+
+}
+
+.imagem-do-governo{
+    width: 20%;
+}
+
+.cor-ao-lado-do-gov{
+    background-color: #342F2F;
+}
+
+.imagem-da-escola{
+    width: 40%;
+}
+
+.cor-primeiro.texto{
+    background-color: #B93C3C;
+}
+
+.icone-telefone{
+    width: 4%;
+}
